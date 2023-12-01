@@ -4,12 +4,12 @@ This repository contains full derivations of least square estimators and their p
 
 Please give a star if you find this explanation helpful :star:
 
-# Least Square Estimators
+## Least Square Estimators
 
 - [LaTeX file](Least%20Square%20Estimators.tex)
 - [PDF file](Least%20Square%20Estimators.pdf)
 
-# Properties of Least Square Estimators
+## Properties of Least Square Estimators
 
 - [LaTeX file](Properties%20of%20Least%20Square%20Estimators.tex)
 - [PDF file](Properties%20of%20Least%20Square%20Estimators.pdf)
